@@ -11,6 +11,6 @@ An autonomous car (also known as a driverless car, self-driving car, and robotic
 Click on this link to download the dataset: [a link](https://mega.nz/#!SPRwkCBa!SuA8tVlSX4Fq9eCMPJYCsl6C9cVEiKCjlruKiLEK3QU)
 
 #### Procedure
-1- First, run LoadData.py which will get dataset from folder and store it in a pickle file.
-2- Now you need to have the data, run TrainModel.py which will load data from pickle and augment it. After this, the training process begins.
+1- First, run LoadData.py which will get dataset from folder and store it in a pickle file.<br />
+2- Now you need to have the data, run TrainModel.py which will load data from pickle and augment it. After this, the training process begins.<br />
 3- For testing it on the video, run DriveApp.py
