@@ -14,4 +14,3 @@ Click on this link to download the dataset: [a link](https://mega.nz/#!SPRwkCBa!
 1- First, run LoadData.py which will get dataset from folder and store it in a pickle file.
 2- Now you need to have the data, run TrainModel.py which will load data from pickle and augment it. After this, the training process begins.
 3- For testing it on the video, run DriveApp.py
-
