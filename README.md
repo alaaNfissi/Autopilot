@@ -12,13 +12,13 @@ Click on this link to download the dataset: [link](https://mega.nz/#!SPRwkCBa!Su
 
 #### Requirements
 
-numpy
-matplotlib
-cv2
-keras
-h5py
-scipy
-tensorflow
+numpy<br />
+matplotlib<br />
+cv2<br />
+keras<br />
+h5py<br />
+scipy<br />
+tensorflow<br />
 
 #### Procedure
 1- First, run LoadData.py which will get dataset from folder and store it in a pickle file.<br />
